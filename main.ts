@@ -1,6 +1,6 @@
 namespace userconfig {
-    export const ARCADE_SCREEN_WIDTH = 100
-    export const ARCADE_SCREEN_HEIGHT = 100
+    export const ARCADE_SCREEN_WIDTH = 2560 / 2
+    export const ARCADE_SCREEN_HEIGHT = 1440 / 2
 }
 
 const screenW = userconfig.ARCADE_SCREEN_WIDTH
